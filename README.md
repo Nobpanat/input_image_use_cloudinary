@@ -1,0 +1,1 @@
+# input_image_use_cloudinary
