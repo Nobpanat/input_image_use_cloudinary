@@ -1,15 +1,23 @@
 # input_image_use_cloudinary
 
-stack vite(react) + express js + MongoDB
-use cloudinary for save image
+This project uses Vite (React), Express.js, and MongoDB as the tech stack.
+Cloudinary is used for image storage.
 
-cd frontend
-npm install
+Setup and Installation:
+1. Navigate to the frontend directory:
+    ```sh
+    cd frontend
+    ```
+2. Install dependencies:
+    ```sh
+    npm install
+    ```
+3. Start the server using nodemon:
+    ```sh
+    npx nodemon server.js
+    ```
 
-
-npx nodemon server.js              for run server
-
-This is website input_image_use_cloudinary
+This is the website: input_image_use_cloudinary
 
 ![alt text](./image.png)
 
